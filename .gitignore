@@ -1,0 +1,50 @@
+# =============== #
+# Unity .gitignore
+# =============== #
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# User-specific settings #
+##########################
+UserSettings/
+*.user
+*.userprefs
+
+# Unity generated folders #
+###########################
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+
+# Build results #
+#################
+[Bb]uild/
+[Bb]uilds/
+*.apk
+*.aab
+*.unitypackage
+*.exe
+*.app
+*.ipa
+*.msi
+*.dll
+
+# IDE / Editor files #
+######################
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+
+# Crash Reports #
+#################
+sysinfo.txt
