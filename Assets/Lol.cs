@@ -1,12 +1,12 @@
 using UnityEngine;
 
-public class Movement : MonoBehaviour
+public class Lol : MonoBehaviour
 {
-    
-    public void Hello()
+
+    public void FY()
     {
         //GitHub Example Saying Hello To Umair
-        Debug.Log("Hello Umair");
+        
         Debug.Log("Hello Arham");
     }
 
